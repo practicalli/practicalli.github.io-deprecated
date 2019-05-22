@@ -1,0 +1,14 @@
+* Practicalli main website
+
+The [[https://practicalli.github.io/][Practicalli website]] is the main landing page for all the educational content produced by Practicalli, focused mainly on functional programming with Clojure and ClojureScript.
+
+This project contains the static assets that make up the website.  These assets are created from the [[https://github.com/practicalli/practicalli-landing-page][practicalli-landing-page repository]].
+
+If there are any issues or contributions you wish to make, please do so via the [[https://github.com/practicalli/practicalli-landing-page][practicalli-landing-page repository]].
+
+
+** License
+
+Copyright © 2019 Practicalli / jr0cket
+
+Distributed under the Creative Commons Attribution Share-Alike 4.0 International
