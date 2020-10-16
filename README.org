@@ -6,6 +6,19 @@ This project contains the static assets that make up the website.  These assets 
 
 If there are any issues or contributions you wish to make, please do so via the [[https://github.com/practicalli/practicalli-landing-page][practicalli-landing-page repository]].
 
+** Deploy to Live
+
+Clone the ~practicalli.github.io~ repository
+
+~git clone git@github.com:practicalli/practicalli.github.io.git~
+
+Copy all files and directories from the ~/docs~ directory to the root of that repository.
+
+~cp -ruv ../practicalli-landing-page/docs/* .~
+
+> Note: option r for recursive, u for update so only newer files are copied and v for verbose to show what files are copied.
+
+
 
 ** License
 
